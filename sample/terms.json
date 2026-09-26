@@ -1,0 +1,6 @@
+{
+  "unknown_error_code": "E_UNKNOWN_UNIT",
+  "incompatible_error_code": "E_INCOMPATIBLE",
+  "mass_terms": [{"amount": 3, "unit": "kg"}, {"amount": 200, "unit": "g"}, {"amount": 1500, "unit": "mg"}],
+  "length_terms": [{"amount": 2, "unit": "m"}, {"amount": 30, "unit": "cm"}]
+}
